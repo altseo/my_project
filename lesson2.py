@@ -1,2 +1,2 @@
 # function list output
-print(__builtins__)
+print(dir(__builtins__))
