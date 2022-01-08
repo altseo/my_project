@@ -1,3 +1,3 @@
 # lesson3. the numbers
 a = input()
-print(int(a[::-1]))
+a = (int(a[::-1]))
