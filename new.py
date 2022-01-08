@@ -1,1 +1,1 @@
-print('new')
+b='dfdfgds'
